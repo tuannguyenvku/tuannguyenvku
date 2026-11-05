@@ -34,13 +34,13 @@ This GitHub is my personal corner for sharing **open-source experiments, develop
 
 ### 🏢 Studios, Ventures & Research Labs
 
-- 🔬 **[AITwinLab](https://github.com/tuannguyenvku/aitwinlab)** ([aitwinlab.org](https://aitwinlab.org))  
+- 🔬 **[AITwinLab](https://github.com/aitwinlab)** ([aitwinlab.org](https://aitwinlab.org))  
   *Researching the Infrastructure for Agentic AI* — Investigating runtime harnesses (`Agent = Model + Harness`), BPMN/DMN workflow orchestration, and formal verification.
 
-- 🛠️ **[AgentAppStudio](https://github.com/tuannguyenvku/agentappstudio)** ([agentappstudio.com](https://agentappstudio.com))  
+- 🛠️ **[AgentAppStudio](https://github.com/AgentAppStudio)** ([agentappstudio.com](https://agentappstudio.com))  
   *Web, Mobile & AI Apps for Founders Who Ship* — Specialized software studio delivering production Web SaaS, Cross-Platform Mobile (Capacitor/Flutter), and custom Model Context Protocol (MCP) integrations.
 
-- ⚡ **[Agentic Content Factory](https://github.com/tuannguyenvku/agenticcontentfactory)** ([agenticcontentfactory.com](https://agenticcontentfactory.com))  
+- ⚡ **[Agentic Content Factory](https://agenticcontentfactory.com)** ([agenticcontentfactory.com](https://agenticcontentfactory.com))  
   *Autonomous Multi-Modal Content Engine* — Multi-agent pipeline for autonomous research, drafting, multimedia asset synthesis, and multi-channel distribution.
 
 ---
