@@ -1,11 +1,8 @@
 <div align="center">
 
 <a href="https://tuannguyen.dev">
-  <img src="https://tuannguyen.dev/headshot-portrait.jpg" alt="Nguyen Thanh Tuan, PhD" width="130" style="border-radius: 50%; max-width: 100%; height: auto;" />
+  <img src="https://raw.githubusercontent.com/tuannguyenvku/tuannguyenvku/main/assets/banner.jpg" alt="Nguyen Thanh Tuan, PhD — Researcher · Educator · Builder" width="100%" />
 </a>
-
-# Nguyen Thanh Tuan, PhD
-### *Researcher · Educator · Builder*
 
 [![Website](https://img.shields.io/badge/Website-tuannguyen.dev-1F2421?style=for-the-badge&logo=google-chrome&logoColor=white)](https://tuannguyen.dev)
 [![Affiliation](https://img.shields.io/badge/VKU-Faculty_of_Computer_Science-D9534F?style=for-the-badge&logo=mortarboard&logoColor=white)](https://vku.udn.vn)
@@ -21,6 +18,9 @@
 ---
 
 ### 👨‍💻 About Me
+
+
+<p align="center"><img src="https://raw.githubusercontent.com/tuannguyenvku/tuannguyenvku/main/assets/illustration-about.jpg" alt="Teaching, Research and Building as one continuous practice" width="85%" /></p>
 
 I am a lecturer and researcher in the **Faculty of Computer Science** at the **Vietnam-Korea University of Information and Communication Technology (VKU)**, The University of Da Nang. 
 
@@ -46,6 +46,9 @@ This GitHub is my personal corner for sharing **open-source experiments, develop
 ---
 
 ### 🚀 Featured Open Source & Projects
+
+
+<p align="center"><img src="https://raw.githubusercontent.com/tuannguyenvku/tuannguyenvku/main/assets/illustration-opensource.jpg" alt="Small open-source projects shared with the community" width="85%" /></p>
 
 Here are a few public repositories and resources I actively curate and contribute to:
 
