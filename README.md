@@ -1,5 +1,9 @@
 <div align="center">
 
+<a href="https://tuannguyen.dev">
+  <img src="https://tuannguyen.dev/headshot-portrait.jpg" alt="Nguyen Thanh Tuan, PhD" width="130" style="border-radius: 50%; max-width: 100%; height: auto;" />
+</a>
+
 # Nguyen Thanh Tuan, PhD
 ### *Researcher · Educator · Builder*
 
